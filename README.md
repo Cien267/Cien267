@@ -15,12 +15,11 @@
 
 - ⚡ Fun fact **Every trip teaches me a new life lesson, usually about overpacking.**
 <br/>
-<br/>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/kien-nguyen-duc-b3848526b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kien-nguyen-duc-b3848526b" height="30" width="30" /></a>
-<a href="https://stackoverflow.com/users/17830322" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="17830322" height="30" width="30" /></a>
-<a href="https://fb.com/cien267" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="cien267" height="30" width="30" /></a>
+<a href="https://linkedin.com/in/kien-nguyen-duc-b3848526b" target="blank" style="margin-right:30px"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kien-nguyen-duc-b3848526b" height="30" width="30" /></a>
+<a href="https://stackoverflow.com/users/17830322" target="blank" style="margin-right:30px"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="17830322" height="30" width="30" /></a>
+<a href="https://fb.com/cien267" target="blank" style="margin-right:30px"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="cien267" height="30" width="30" /></a>
 <a href="https://instagram.com/c.i_e.n" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="c.i_e.n" height="30" width="30" /></a>
 </p>
 <br/>
@@ -347,9 +346,9 @@
     />
   </a>
 </p>
-
+<br/>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cien267&show_icons=true&locale=en&layout=compact" alt="cien267" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cien267&show_icons=true&locale=en" alt="cien267" /></p>
-
+<br/>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cien267&" alt="cien267" /></p>
