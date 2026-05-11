@@ -17,7 +17,18 @@
 <br/>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/kien-nguyen-duc-b3848526b" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kien-nguyen-duc-b3848526b" height="30" width="30" /></a><a href="https://stackoverflow.com/users/17830322" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="17830322" height="30" width="30" /></a><a href="https://fb.com/cien267" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="cien267" height="30" width="30" /></a><a href="https://instagram.com/c.i_e.n" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="c.i_e.n" height="30" width="30" /></a>
+  <a href="https://linkedin.com/in/kien-nguyen-duc-b3848526b" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="30" />
+  </a>&nbsp;
+  <a href="https://stackoverflow.com/users/17830322" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" height="30" width="30" />
+  </a>&nbsp;
+  <a href="https://fb.com/cien267" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="30" width="30" />
+  </a>&nbsp;
+  <a href="https://instagram.com/c.i_e.n" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="30" />
+  </a>
 </p>
 <br/>
 <h3 align="left">Languages and Tools:</h3>
