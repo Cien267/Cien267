@@ -355,7 +355,7 @@
   </a>
 </p>
 <br/>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cien267&show_icons=true&locale=en&layout=compact" alt="cien267" /></p>
+<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cien267&show_icons=true&locale=en&layout=compact" alt="cien267" /></p> -->
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cien267&show_icons=true&locale=en" alt="cien267" /></p>
 <br/>
